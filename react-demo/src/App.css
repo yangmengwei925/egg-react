@@ -1,0 +1,10 @@
+#root,.index{
+    height:100%;
+}
+.index header{
+    display: flex;
+    justify-content:space-between;
+}
+.index .write{
+    color:#fff;
+}
